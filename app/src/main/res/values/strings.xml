@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gallery Pole Vault</string>
+    <string name="settingsKey">gallery_vault_key</string>
+</resources>
